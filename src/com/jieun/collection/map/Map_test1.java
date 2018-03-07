@@ -1,4 +1,4 @@
-package com.iu.collection.map;
+package com.jieun.collection.map;
 
 import java.util.HashMap;
 import java.util.Iterator;

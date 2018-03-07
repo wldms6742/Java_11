@@ -1,4 +1,4 @@
-package com.iu.util.st.ex1;
+package com.jieun.util.st.ex1;
 
 import java.util.HashMap;
 import java.util.StringTokenizer;

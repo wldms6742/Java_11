@@ -1,4 +1,4 @@
-package com.iu.collection.list;
+package com.jieun.collection.list;
 
 import java.util.ArrayList;
 
